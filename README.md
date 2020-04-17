@@ -1,2 +1,0 @@
-# Functionbindingreact
-Created with CodeSandbox
